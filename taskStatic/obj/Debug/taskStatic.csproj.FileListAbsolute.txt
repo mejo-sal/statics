@@ -1,0 +1,12 @@
+C:\Users\amjed\source\repos\taskStatic\taskStatic\bin\Debug\taskStatic.exe
+C:\Users\amjed\source\repos\taskStatic\taskStatic\bin\Debug\taskStatic.pdb
+C:\Users\amjed\source\repos\taskStatic\taskStatic\obj\Debug\taskStatic.csproj.AssemblyReference.cache
+C:\Users\amjed\source\repos\taskStatic\taskStatic\obj\Debug\taskStatic.csproj.CoreCompileInputs.cache
+C:\Users\amjed\source\repos\taskStatic\taskStatic\obj\Debug\taskStatic.exe
+C:\Users\amjed\source\repos\taskStatic\taskStatic\obj\Debug\taskStatic.pdb
+C:\Users\amjed\OneDrive\Desktop\احتمالات\taskStatic\taskStatic\bin\Debug\taskStatic.exe
+C:\Users\amjed\OneDrive\Desktop\احتمالات\taskStatic\taskStatic\bin\Debug\taskStatic.pdb
+C:\Users\amjed\OneDrive\Desktop\احتمالات\taskStatic\taskStatic\obj\Debug\taskStatic.csproj.AssemblyReference.cache
+C:\Users\amjed\OneDrive\Desktop\احتمالات\taskStatic\taskStatic\obj\Debug\taskStatic.csproj.CoreCompileInputs.cache
+C:\Users\amjed\OneDrive\Desktop\احتمالات\taskStatic\taskStatic\obj\Debug\taskStatic.exe
+C:\Users\amjed\OneDrive\Desktop\احتمالات\taskStatic\taskStatic\obj\Debug\taskStatic.pdb
